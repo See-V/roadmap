@@ -5,15 +5,15 @@ Roadmap for See-V
 
 
 
-- **[<code>GET</code> profile/:id](http://see-v.herokuapp.com/api/v1/profile/:id.json)**
-- **[<code>GET</code> educations](http://see-v.herokuapp.com/api/v1/educations.json)**
-- **[<code>GET</code> educations/:id](http://see-v.herokuapp.com/api/v1/educations/:id.json)**
-- **[<code>GET</code> skills](http://see-v.herokuapp.com/api/v1/skills.json)**
-- **[<code>GET</code> cv_as_pdf/:id](http://see-v.herokuapp.com/api/v1/cv_pdf/:id.json)**
+- **[<code>GET</code> profile/:id](http://see-v.herokuapp.com/api/v1/user/:id/profile/:id.json)**
+- **[<code>GET</code> educations](http://see-v.herokuapp.com/api/v1/user/:id/educations.json)**
+- **[<code>GET</code> educations/:id](http://see-v.herokuapp.com/api/v1/user/:id/educations/:id.json)**
+- **[<code>GET</code> skills](http://see-v.herokuapp.com/api/v1/user/:id/skills.json)**
+- **[<code>GET</code> cv_as_pdf/:id](http://see-v.herokuapp.com/api/v1/user/:id/cv_pdf/:id.json)**
 
-- **[<code>POST</code> profile](http://see-v.herokuapp.com/api/v1/profile)**
-- **[<code>POST</code> educations](http://see-v.herokuapp.com/api/v1/educations)**
-- **[<code>POST</code> skills](http://see-v.herokuapp.com/api/v1/skills)**
+- **[<code>POST</code> profile](http://see-v.herokuapp.com/api/v1/user/:id/profile)**
+- **[<code>POST</code> educations](http://see-v.herokuapp.com/api/v1/user/:id/educations)**
+- **[<code>POST</code> skills](http://see-v.herokuapp.com/api/v1/user/:id/skills)**
 
 # App features
 
