@@ -5,7 +5,7 @@ Roadmap for See-V
 
 
 
-- **[<code>GET</code> profile](http://see-v.herokuapp.com/api/v1/profile.json)**
+- **[<code>GET</code> profile/:id](http://see-v.herokuapp.com/api/v1/profile/:id.json)**
 - **[<code>GET</code> educations](http://see-v.herokuapp.com/api/v1/educations.json)**
 - **[<code>GET</code> educations/:id](http://see-v.herokuapp.com/api/v1/educations/:id.json)**
 - **[<code>GET</code> skills](http://see-v.herokuapp.com/api/v1/skills.json)**
