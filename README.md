@@ -13,6 +13,7 @@ Roadmap for See-V
 
 - **[<code>POST</code> profile](http://see-v.herokuapp.com/api/v1/profile)**
 - **[<code>POST</code> educations](http://see-v.herokuapp.com/api/v1/educations)**
+- **[<code>POST</code> skills](http://see-v.herokuapp.com/api/v1/skills)**
 
 # App features
 
